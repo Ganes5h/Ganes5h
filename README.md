@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center"> "I am a dedicated student enthusiastically learning the intricacies of the MERN stack. With a strong focus on mastering frontend and backend development, I aspire to become a proficient MERN stack developer. Committed to honing my skills, I aim to contribute innovative solutions and grow within the field." </h3>
-<img align="Center" alt="animantion" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+<h3 align="center"> 
+"I'm a dedicated MERN stack developer, skilled in crafting sophisticated web solutions. Proficient in both frontend and backend development, I deliver high-quality, innovative projects."</h3>
+<p align="center">
+  <img alt="animation" width="500px" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganes5h&label=Profile%20views&color=0e75b6&style=flat" alt="ganes5h" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganes5h" alt="ganes5h" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" <img src="https://github-profile-trophy.vercel.app/?username=ganes5h" alt="ganes5h" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

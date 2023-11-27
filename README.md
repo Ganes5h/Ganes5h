@@ -2,7 +2,7 @@
 <h3 align="center"> 
 "I'm a dedicated MERN stack developer, skilled in crafting sophisticated web solutions. Proficient in both frontend and backend development, I deliver high-quality, innovative projects."</h3>
 <p align="center">
-  <img alt="animation" width="500px" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
+  <img alt="animation" width="400px" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
 </p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganes5h&label=Profile%20views&color=0e75b6&style=flat" alt="ganes5h" /> </p>

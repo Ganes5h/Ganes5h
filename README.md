@@ -1,4 +1,4 @@
-# <div align="center">🚀 Hi there, I'm **Ganesh Kugaji** 🚀</div>
+# <div align="center"> Hi there, I'm **Ganesh Kugaji** </div>
 
 <div align="center">
 <!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Smart+India+Hackathon+2024+Finalist;Technical+Coordinator+%40+College+Tech+Team;7+Hackathon+Wins+%F0%9F%8F%86;Second+Rank+Holder+in+CSE (Second+Year);Gen+AI+Enthusiast;Blockchain+Enthusiast" alt="Typing SVG" style="background-color:#000000;" /> -->
@@ -216,7 +216,7 @@
 
 ---
 
-## 🎓 **Education Journey**
+<!--## 🎓 **Education Journey**
 
 <table align="center">
   <tr>
@@ -241,7 +241,7 @@
       <br>Percentage: <b>95.68%</b> | 2019
     </td>
   </tr>
-</table>
+</table>-->
 
 ---
 

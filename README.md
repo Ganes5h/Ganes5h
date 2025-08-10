@@ -1,7 +1,16 @@
 # <div align="center">🚀 Hi there, I'm **Ganesh Kugaji** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Smart+India+Hackathon+2024+Finalist;Technical+Coordinator+%40+College+Tech+Team;7+Hackathon+Wins+%F0%9F%8F%86;Second+Rank+Holder+in+CSE (Second+Year);Gen+AI+Enthusiast;Blockchain+Enthusiast" alt="Typing SVG" style="background-color:#000000;" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Smart+India+Hackathon+2024+Finalist;Technical+Coordinator+%40+College+Tech+Team;7+Hackathon+Wins+%F0%9F%8F%86;Second+Rank+Holder+in+CSE (Second+Year);Gen+AI+Enthusiast;Blockchain+Enthusiast" alt="Typing SVG" style="background-color:#000000;" /> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-FFA500?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIH%202024%20Finalist-1E90FF?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical%20Coordinator-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/7%20Hackathon%20Wins-%F0%9F%8F%86-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Second%20Rank%20CSE%20(2nd%20Year)-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen%20AI%20Enthusiast-FF1493?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain%20Enthusiast-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
 </div>
 
 <div align="center">
@@ -14,7 +23,7 @@
 
 > *"Enthusiastic CS Engineering student with excellent problem-solving skills and proven leadership abilities. Passionate about crafting innovative web solutions and mentoring in technology."*
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!--<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">-->
 
 <!-- - 💼 Currently **MERN Stack Developer** at EyeSec Cyber Security Solutions -->
 - 🎓 **Third-year Computer Science Student** at KLS Gogte Institute of Technology
